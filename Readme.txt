@@ -1,0 +1,1 @@
+The model is trained with checkpoints. We forgot to save the checkpoints files and just because of lack of time we are not able to submit it at the moment. So, if you need checkpoint files just let us know. You can also go through ipynb file to test it.
